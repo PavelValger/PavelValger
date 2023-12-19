@@ -1,22 +1,24 @@
-
-### Hi! 👋 My name is Pavel. Welcome! ✌️
+## Hi! 👋 My name is Pavel. Welcome! ✌️
 
 📝 About me:
-I am from Ekaterinburg 💻
-I learn Java at [Job4j](https://job4j.ru/) ☕
-Began to study Java from 2021 📆
+* I am from Ekaterinburg 💻
+* I learn Java at [Job4j](https://job4j.ru/) ☕
+* Began to study Java from 2021 📆
 
-<!--
-**PavelValger/PavelValger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
+Core technologies :man_technologist::
+* Backend :anchor::
+>![Java](https://a11ybadges.com/badge?logo=java)
+>![Spring](https://a11ybadges.com/badge?logo=spring)
+>![Spring Boot](https://a11ybadges.com/badge?logo=springboot)
+>![Hibernate](https://a11ybadges.com/badge?logo=hibernate)
 
-Here are some ideas to get you started:
+* Builder :hammer::
+>![Apache Maven](https://a11ybadges.com/badge?logo=apachemaven)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Database :recycle::
+>![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
+
+* Testing :mechanic::
+>![JUnit5](https://a11ybadges.com/badge?logo=junit5)
+>
