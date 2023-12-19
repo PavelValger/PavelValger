@@ -1,6 +1,6 @@
-## Hi! 👋 My name is Pavel. Welcome! ✌️
+## Hi! 👋 My name is Pavel. Welcome! :copyright:
 
-📝 About me:
+About me 📝:
 * I am from Ekaterinburg 💻
 * I learn Java at [Job4j](https://job4j.ru/) ☕
 * Began to study Java from 2021 📆
@@ -19,6 +19,10 @@ Core technologies :man_technologist::
 * Database :recycle::
 >![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 
-* Testing :mechanic::
->![JUnit5](https://a11ybadges.com/badge?logo=junit5)
->
+-----
+My projects :heavy_check_mark::
+* [Car market using Spring Boot and Hibernate](https://github.com/PavelValger/job4j_cars)
+* [Cinema using Spring Boot and sql2o](https://github.com/PavelValger/job4j_cinema)
+* [Accidents using Spring Boot, Spring Security and Spring Data](https://github.com/PavelValger/job4j_accidents)
+* [ToDo list using Spring Boot and Hibernate](https://github.com/PavelValger/job4j_todo)
+* 
