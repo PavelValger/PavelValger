@@ -1,4 +1,4 @@
-## Hi! 👋 My name is Pavel. Welcome! :copyright:
+## Hi! 👋 My name is Pavel. Welcome!
 
 About me 📝:
 * I am from Ekaterinburg 💻
@@ -25,4 +25,8 @@ My projects :heavy_check_mark::
 * [Cinema using Spring Boot and sql2o](https://github.com/PavelValger/job4j_cinema)
 * [Accidents using Spring Boot, Spring Security and Spring Data](https://github.com/PavelValger/job4j_accidents)
 * [ToDo list using Spring Boot and Hibernate](https://github.com/PavelValger/job4j_todo)
-* 
+
+-----
+My stat 📈:
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelValger&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+>![Github stats](https://github-readme-stats.vercel.app/api?username=PavelValger&hide=stars,prs,issues,contribs)
