@@ -1,9 +1,9 @@
 ## Hi! 👋 My name is Pavel. Welcome!
 
 About me 📝:
-* I am from Ekaterinburg 💻
+* I am from Ekaterinburg :city_sunrise:
 * I learn Java at [Job4j](https://job4j.ru/) ☕
-* Began to study Java from 2021 📆
+* Began to study Java from 2021 :date:
 
 -----
 Core technologies :man_technologist::
