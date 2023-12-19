@@ -20,13 +20,13 @@ Core technologies :man_technologist::
 >![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 
 -----
-My projects :heavy_check_mark::
+Projects :heavy_check_mark::
 * [Car market using Spring Boot and Hibernate](https://github.com/PavelValger/job4j_cars)
 * [Cinema using Spring Boot and sql2o](https://github.com/PavelValger/job4j_cinema)
 * [Accidents using Spring Boot, Spring Security and Spring Data](https://github.com/PavelValger/job4j_accidents)
 * [ToDo list using Spring Boot and Hibernate](https://github.com/PavelValger/job4j_todo)
 
 -----
-My stat 📈:
+Stats 📈:
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelValger&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 >![Github stats](https://github-readme-stats.vercel.app/api?username=PavelValger&hide=stars,prs,issues,contribs)
