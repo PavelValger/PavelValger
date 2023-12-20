@@ -1,4 +1,4 @@
-## Hi! 👋 My name is Pavel. Welcome!
+## Welcome! My name is Pavel.
 
 About me 📝:
 * I am from Ekaterinburg :city_sunrise:
