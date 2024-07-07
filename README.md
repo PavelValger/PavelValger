@@ -30,4 +30,3 @@ My projects :heavy_check_mark::
 -----
 Stats 📈:
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelValger&layout=compact)](https://github.com/ShamRail/github-readme-stats)
->![Github stats](https://github-readme-stats.vercel.app/api?username=PavelValger&hide=stars,prs,issues,contribs)
